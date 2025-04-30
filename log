@@ -10,3 +10,14 @@ mi., 30 de abr. de 2025  9:04:52:
  tests:  11|6
 total_score: 15/70
 036ef28
+mi., 30 de abr. de 2025  9:14:09: 
+ treemap.c | 32 ++++++++++++++++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+Compilation failed
+In file included from test.c:4:0:
+treemap.c: In function 'insertTreeMap':
+treemap.c:64:16: error: variable 'padre' set but not used [-Werror=unused-but-set-variable]
+     TreeNode * padre = NULL;
+                ^~~~~
+cc1.exe: all warnings being treated as errors
+958c654
