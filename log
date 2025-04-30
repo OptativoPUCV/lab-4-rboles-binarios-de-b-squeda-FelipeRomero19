@@ -33,3 +33,9 @@ mi., 30 de abr. de 2025  9:25:27:
  tests:  13|5
 total_score: 25/70
 5863d83
+mi., 30 de abr. de 2025  9:26:17: 
+ treemap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  15|4
+total_score: 25/70
+83e596b
